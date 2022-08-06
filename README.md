@@ -5,7 +5,7 @@
 
 Uma lista de tarefas com acesso restrito com autenticação!
 
-**[CLIQUE AQUI](https://todophp.foxtag.com.br/)** para testar (by Vercel)!
+**[CLIQUE AQUI](https://todophp.foxtag.com.br/)** para testar!
 
  <p align="center">
   <a src="#" target="_blank"><img src="./public/example.png" width="100%" height="auto" /></a>
