@@ -5,6 +5,12 @@
 
 Uma lista de tarefas com acesso restrito com autenticação!
 
+**[CLIQUE AQUI](https://todophp.foxtag.com.br/)** para testar (by Vercel)!
+
+ <p align="center">
+  <a src="#" target="_blank"><img src="./public/example.png" width="100%" height="auto" /></a>
+</p>
+
 
 ## ❓ Intuito do projeto
 Afim de manter o portfólio atualizado, criei essa lista de tarefas para treinar algumas skills também. Utilizando Laravel para o Backend e o React com Typescript através do Vite, recebendo dados pelo InertiaJS.
@@ -19,8 +25,6 @@ Caso deseje testar em seu próprio ambiente, e que tudo funcione corretamente, v
 
 ## 🚀 Vamos começar?
 Caso deseje testar esse projeto, siga os passos abaixo!
-OU
-Veja a demonstração em: https://todophp.foxtag.com.br
 
 **Frontend**
 
