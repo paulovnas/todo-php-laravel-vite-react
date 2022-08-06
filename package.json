@@ -1,0 +1,49 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@headlessui/react": "^1.4.2",
+        "@inertiajs/inertia": "^0.11.0",
+        "@inertiajs/inertia-react": "^0.8.0",
+        "@inertiajs/progress": "^0.2.6",
+        "@tailwindcss/forms": "^0.5.2",
+        "@types/lodash": "^4.14.182",
+        "@types/react": "^18.0.15",
+        "@types/react-dom": "^18.0.6",
+        "@vitejs/plugin-react": "^2.0.0",
+        "autoprefixer": "^10.4.2",
+        "axios": "^0.27",
+        "laravel-vite-plugin": "^0.5.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.4.6",
+        "prettier": "2.7.1",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "vite": "^3.0.0",
+        "vite-plugin-glob": "^0.3.2"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.10.0",
+        "@inertiajs/inertia": "^0.11.0",
+        "@inertiajs/inertia-react": "^0.8.0",
+        "@inertiajs/progress": "^0.2.7",
+        "@mantine/core": "^5.0.2",
+        "@mantine/dates": "^5.0.2",
+        "@mantine/form": "^5.0.2",
+        "@mantine/hooks": "^5.0.2",
+        "@mantine/modals": "^5.0.2",
+        "@mantine/notifications": "^5.0.2",
+        "@mantine/rte": "^5.0.2",
+        "@reduxjs/toolkit": "^1.8.3",
+        "@tabler/icons": "^1.78.1",
+        "@vitejs/plugin-react": "^2.0.0",
+        "dayjs": "^1.11.4",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-redux": "^8.0.2",
+        "typescript": "^4.7.4"
+    }
+}
